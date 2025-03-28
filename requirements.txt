@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+librosa
+ipython
+torch
+torchaudio
+transformers
+scikit-learn
+transformers[torch]

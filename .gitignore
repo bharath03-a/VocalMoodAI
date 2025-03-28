@@ -1,5 +1,8 @@
 input
 .DS_Store
 Audio_Speech_Actors_01-24
-
+data
 sources.txt
+
+models
+results
